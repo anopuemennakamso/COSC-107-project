@@ -37,7 +37,7 @@ function countdown() {
     minute = minute < 10? '0' + minute:minute;
     seconds = seconds < 10? '0' + seconds:seconds;
 
-     //displays the vaules in realtime in html document
+     //displays the values in realtime in html document
     d.innerHTML = `${days}`;
     h.innerHTML = `${hours}`;
     m.innerHTML = `${minute}`;
