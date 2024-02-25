@@ -3,8 +3,8 @@
   padding: 0px;
   margin: 0px;
 }
-body{
-    background-color: gray;
+body {
+  background-color: gray;
 }
 .container {
   border-radius: 15px;
@@ -15,48 +15,44 @@ body{
   justify-content: space-between;
   align-items: center;
   background-color: rgb(53, 52, 52);
-  box-shadow: -2px -1px 62px 42px rgba(0,0,0,0.51);
--webkit-box-shadow: -2px -1px 62px 42px rgba(0,0,0,0.51);
--moz-box-shadow: -2px -1px 62px 42px rgba(0,0,0,0.51);
+  box-shadow: -2px -1px 62px 42px rgba(0, 0, 0, 0.51);
+  -webkit-box-shadow: -2px -1px 62px 42px rgba(0, 0, 0, 0.51);
+  -moz-box-shadow: -2px -1px 62px 42px rgba(0, 0, 0, 0.51);
 }
 
-.head{
-    color: rgb(137, 130, 130);
+.head {
+  color: rgb(137, 130, 130);
 }
 
-.paragraph{
-    font-family:'Courier New', Courier, monospace;
-    color: black;
-
+.paragraph {
+  font-family: "Courier New", Courier, monospace;
+  color: black;
 }
 .contain-2 {
-    height: 16rem;
+  height: 16rem;
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
   align-content: center;
 }
-.image{
-    margin: 0.5rem;
-    width: 100%;
+.image {
+  margin: 0.5rem;
+  width: 100%;
 }
 .image img {
   width: 100%;
   border-radius: 15px;
 }
 
-.timer-container{
-display: flex;
-justify-content: space-around;
-align-items: center;
+.timer-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
 
-
-
-
-.timer-block{
-    border-radius: 10px;
-    padding:1rem;
-    background-color: rgb(58, 58, 67);
-    color: rgb(245, 236, 221);
+.timer-block {
+  border-radius: 10px;
+  padding: 1rem;
+  background-color: rgb(58, 58, 67);
+  color: rgb(245, 236, 221);
 }
